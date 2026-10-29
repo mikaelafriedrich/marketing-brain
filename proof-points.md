@@ -1,6 +1,6 @@
 # TraceDesk: Proof Points (proof-points.md)
 
-The fact-checker. If a claim isn't here, don't publish it. Company-wide figures come from [`company-facts.md`](company-facts.md); every quote is in [`testimonials.md`](testimonials.md) (referenced by ID). As of October 29, 2026.
+The fact-checker. If a claim isn't here, don't publish it. Company-wide figures come from [`company-facts.md`](company-facts.md), and plan and pricing figures from [`products.md`](products.md); every quote is in [`testimonials.md`](testimonials.md) (referenced by ID). As of October 29, 2026.
 
 **Awards, analyst recognition and third-party certifications: none to date.** Don't claim any.
 

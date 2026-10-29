@@ -1,6 +1,6 @@
 # TraceDesk: Positioning (positioning.md)
 
-As of October 2026. Company and pricing details: [`company-facts.md`](company-facts.md). Evidence: [`proof-points.md`](proof-points.md). Quotes: [`testimonials.md`](testimonials.md).
+As of October 2026. Company details: [`company-facts.md`](company-facts.md). Plans and pricing: [`products.md`](products.md). Evidence: [`proof-points.md`](proof-points.md). Quotes: [`testimonials.md`](testimonials.md).
 
 ---
 

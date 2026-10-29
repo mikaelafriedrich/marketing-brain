@@ -6,7 +6,8 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 
 | File | Purpose |
 |---|---|
-| [`company-facts.md`](company-facts.md) | Source of truth: company snapshot, timeline, products, pricing, customer-base metrics, NPS |
+| [`company-facts.md`](company-facts.md) | Source of truth: company snapshot, timeline, customer-base metrics, NPS, research |
+| [`products.md`](products.md) | Source of truth: modules, plans, pricing, sales motion, SyncBridge facts, customers by plan |
 | [`icp.md`](icp.md) | Ideal customer profile; buyer versus user personas; triggers, pains, objections; US and Canadian regulatory vocabulary |
 | [`positioning.md`](positioning.md) | Canonical statement, category, competitive landscape (October 2026), message house, SyncBridge and vertical positioning |
 | [`brand-voice.md`](brand-voice.md) | Voice, master signal-word list, words to avoid, examples from the one-pager |
@@ -14,7 +15,7 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 | [`proof-points.md`](proof-points.md) | Fact-checker: customer-base metrics, case studies, research findings, claim guardrails |
 | [`testimonials.md`](testimonials.md) | Approved quote library with IDs |
 
-**Precedence when documents disagree:** `company-facts.md`, then `proof-points.md`, then everything else.
+**Precedence when documents disagree:** `company-facts.md` and `products.md`, then `proof-points.md`, then everything else.
 
 ## Decisions applied
 

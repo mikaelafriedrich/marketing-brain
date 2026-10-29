@@ -155,7 +155,7 @@ Echoes the customer phrase "two systems, two stories" and describes what happens
 
 > **See your vendor list in TraceDesk in 30 minutes.**
 
-A specific time and the buyer's own data. The 30-minute demo includes importing the prospect's vendor list (see `company-facts.md`).
+A specific time and the buyer's own data. The 30-minute demo includes importing the prospect's vendor list (see `products.md`).
 
 **6. Customer quotes carry the emotion**
 

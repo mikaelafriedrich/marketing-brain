@@ -1,6 +1,6 @@
 # TraceDesk: Ideal Customer Profile (icp.md)
 
-As of October 2026. Company, pricing and metric details are in [`company-facts.md`](company-facts.md); quotes are in [`testimonials.md`](testimonials.md).
+As of October 2026. Company and customer metrics are in [`company-facts.md`](company-facts.md); plans and pricing are in [`products.md`](products.md); quotes are in [`testimonials.md`](testimonials.md).
 
 ---
 
