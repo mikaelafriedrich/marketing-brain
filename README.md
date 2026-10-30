@@ -15,6 +15,8 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 | [`proof-points.md`](proof-points.md) | Fact-checker: customer-base metrics, case studies, research findings, claim guardrails |
 | [`testimonials.md`](testimonials.md) | Approved quote library with IDs |
 | [`briefs/template.md`](briefs/template.md) | Blank campaign brief: goal, audience, message, proof points, assets, deadline, things to avoid |
+| [`.claude/commands/campaign.md`](.claude/commands/campaign.md) | `/campaign <brief>`: writes every asset in a brief to `campaigns/<name>/`, then runs `/review` and fixes what it finds |
+| [`.claude/commands/review.md`](.claude/commands/review.md) | `/review <folder>`: checks sources, unsupported claims and brand voice; reports issues only |
 
 **Precedence when documents disagree:** `company-facts.md` and `products.md`, then `proof-points.md`, then everything else.
 
