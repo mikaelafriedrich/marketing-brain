@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --midnight: #1A2332; --compliance: #2F6B4A; --parchment: #F5F3EE; --slate: #3A4452;
+    --warm-grey: #D8D4CC; --linen: #EAE7DF; --grey: #5A6372;
+    --serif: 'Instrument Serif', Georgia, serif;
+    --sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1200px; height: 627px; background: var(--parchment); font-family: var(--sans); color: var(--midnight); overflow: hidden; position: relative; }
+  .main { display: flex; gap: 48px; padding: 56px 64px 0; height: 547px; }
+  .copy { width: 500px; display: flex; flex-direction: column; }
+  .tag { font-size: 13px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.1em; color: var(--slate); margin-bottom: 24px; }
+  h1 { font-family: var(--serif); font-weight: 400; font-size: 64px; line-height: 1.05; margin-bottom: 24px; }
+  h1 em { color: var(--compliance); }
+  .body { font-size: 20px; font-weight: 300; line-height: 1.6; color: var(--slate); }
+  .wordmark { font-family: var(--serif); font-size: 32px; margin-top: auto; margin-bottom: 40px; }
+  .wordmark em { color: var(--compliance); }
+
+  .record { flex: 1; align-self: flex-start; margin-top: 8px; background: #FFFFFF; border: 1px solid var(--warm-grey); border-radius: 10px; }
+  .record-head { padding: 16px 20px; border-bottom: 1px solid var(--warm-grey); display: flex; justify-content: space-between; align-items: baseline; }
+  .record-title { font-size: 16px; font-weight: 500; }
+  .record-sub { font-size: 12px; font-weight: 500; color: var(--grey); text-transform: uppercase; letter-spacing: 0.1em; }
+  .cols, .row { display: grid; grid-template-columns: 1fr 120px 150px; align-items: center; padding: 0 20px; }
+  .cols { height: 36px; font-size: 11px; font-weight: 500; color: var(--grey); text-transform: uppercase; letter-spacing: 0.1em; background: var(--linen); }
+  .row { height: 56px; border-top: 1px solid var(--linen); font-size: 15px; font-weight: 300; }
+  .row .name { font-weight: 500; }
+  .row .id { color: var(--grey); font-size: 14px; }
+  .row.new { background: #E8F3EE; }
+  .badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 4px; font-size: 12px; font-weight: 500; justify-self: start; }
+  .badge::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--dot); }
+  .compliant { background: #E8F3EE; color: #1C4A34; --dot: #2F6B4A; }
+  .row.new .compliant { background: #FFFFFF; }
+  .expiring { background: #FBF0E0; color: #6B3D0A; --dot: #C8954A; }
+  .pending { background: #EAE7DF; color: #3A4452; --dot: #8A8880; }
+  .note { padding: 14px 20px; font-size: 13px; font-weight: 500; color: var(--slate); border-top: 1px solid var(--warm-grey); display: flex; gap: 24px; }
+  .note span::before { content: "\2192\00a0"; color: var(--compliance); }
+
+  .band { position: absolute; left: 0; right: 0; bottom: 0; height: 80px; background: var(--midnight); color: var(--parchment); display: flex; align-items: center; padding: 0 64px; gap: 40px; font-size: 17px; font-weight: 300; }
+  .band b { font-weight: 500; }
+  .band .sep { width: 1px; height: 24px; background: var(--slate); }
+</style>
+</head>
+<body>
+  <div class="main">
+    <div class="copy">
+      <div class="tag">SyncBridge &middot; Scale plan</div>
+      <h1>Two systems.<br><em>One story.</em></h1>
+      <p class="body">New vendors added in your ERP appear in TraceDesk automatically. Compliance status writes back to the vendor record.</p>
+      <div class="wordmark">Trace<em>Desk</em></div>
+    </div>
+    <div class="record">
+      <div class="record-head">
+        <div class="record-title">Vendor master</div>
+        <div class="record-sub">Your ERP</div>
+      </div>
+      <div class="cols"><div>Vendor</div><div>ID</div><div>Compliance</div></div>
+      <div class="row new"><div class="name">Ridgeline Freight</div><div class="id">V-10482</div><div class="badge pending">Pending upload</div></div>
+      <div class="row"><div class="name">Harbor Steel Supply</div><div class="id">V-10377</div><div class="badge compliant">Compliant</div></div>
+      <div class="row"><div class="name">Northgate Packaging</div><div class="id">V-10291</div><div class="badge expiring">Expiring soon</div></div>
+      <div class="row"><div class="name">Cobalt Electrical</div><div class="id">V-10214</div><div class="badge compliant">Compliant</div></div>
+      <div class="note"><span>New vendor synced to TraceDesk</span><span>Status written back</span></div>
+    </div>
+  </div>
+  <div class="band">
+    <div><b>SAP S/4HANA</b> &middot; <b>Oracle NetSuite</b> &middot; <b>Dynamics 365</b></div>
+    <div class="sep"></div>
+    <div>No code. Typically live in under 3 hours, with minimal IT support.</div>
+  </div>
+</body>
+</html>
