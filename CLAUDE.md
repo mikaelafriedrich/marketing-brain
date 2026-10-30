@@ -22,7 +22,8 @@ If you need a fact that isn't there, say so instead of guessing.
 - `brand-guidelines.md` covers colors, typography, and layout. Follow it for anything visual. If the TraceDesk brand skill disagrees with it (for example, text color on green), `brand-guidelines.md` wins.
 - Briefs in briefs/ are internal to the team. Internal numbers (adoption rates, churn, goals) are fine there but never in campaign assets in campaigns/, which are customer-facing.
 - Name campaign images `campaigns/[campaign-name]/graphics/[campaign-name]-[asset].png`, with editable sources in `graphics/src/`.
-- `README.md` is an index of all files and the decisions behind them.
+- `README.md` is an index of all files and where things live.
+- `decisions.md` is a dated log of the decisions behind this repo. When we make a decision that changes how things work, add an entry at the top with the date, the decision, why, and the files it affects.
 - Ignore anything in archive/ if it exists.
 - When you finish changing files in this repo, ask me whether to commit and push. If I say yes, do it with a clear commit message. I should never have to run git myself.
 - Use US spelling.
