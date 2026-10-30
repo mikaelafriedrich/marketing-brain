@@ -14,6 +14,7 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 | [`brand-guidelines.md`](brand-guidelines.md) | Visual identity v1.1 (color bands, text colors, one-pager layout) |
 | [`proof-points.md`](proof-points.md) | Fact-checker: customer-base metrics, case studies, research findings, claim guardrails |
 | [`testimonials.md`](testimonials.md) | Approved quote library with IDs |
+| [`briefs/template.md`](briefs/template.md) | Blank campaign brief: goal, audience, message, proof points, assets, deadline, things to avoid |
 
 **Precedence when documents disagree:** `company-facts.md` and `products.md`, then `proof-points.md`, then everything else.
 
