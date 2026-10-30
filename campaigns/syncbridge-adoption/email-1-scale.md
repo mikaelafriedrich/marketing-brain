@@ -10,7 +10,7 @@
 2. SyncBridge is already on your Scale plan
 3. New vendors in [ERP], tracked in TraceDesk automatically
 
-**Preview text:** Most teams are live in under 3 hours, with minimal IT support.
+**Preview text:** Customers are typically live in under 3 hours, with minimal IT support.
 
 **Header image:** [graphics/syncbridge-adoption-email-1-header.png](graphics/syncbridge-adoption-email-1-header.png), 1200×400, displayed at 600×200
 **Alt text:** Your ERP and TraceDesk, telling the same story. SyncBridge is on your Scale plan.
@@ -41,4 +41,4 @@ If you'd rather have help, reply to this email and I'll walk you and your IT lea
 [CSM NAME]
 Customer Success Manager, TraceDesk
 
-P.S. Want to see it before you connect? We're running a live SyncBridge walkthrough on November 17 at 1pm Eastern, with time for your IT lead's questions. **[Save your seat]** [WEBINAR LINK]
+P.S. Want to see it before you connect? We're running a live SyncBridge walkthrough on November 17 at 1pm Eastern. **[Save your seat]** [WEBINAR LINK]

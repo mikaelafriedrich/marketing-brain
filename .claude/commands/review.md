@@ -7,4 +7,6 @@ Check 4, Plans and internal figures: Flag any plan-specific feature that isn't l
 Check 5, Dates and links: Check that every date matches its weekday, and that every linked file or image exists.
 
 Output a table with the columns: Asset | Issue | Suggested fix. If everything is clean, say so.
-When run on its own, only report issues. Don't rewrite the files.
+When run on its own, only report issues. Don't rewrite the assets.
+
+Record the review: add an entry at the top of review-log.md in the campaign folder (create it if it doesn't exist). Include the date, the scope, a one-line result, the issues table with a Status column (Open, or Fixed with the change made), and a short list of what passed. If issues are fixed later, update their status in that entry.

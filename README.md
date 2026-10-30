@@ -22,6 +22,7 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 
 - `briefs/[campaign-name].md`: one internal brief per campaign, copied from `briefs/template.md`. Includes goals, proof points in full, and the asset schedule with links.
 - `campaigns/[campaign-name]/`: customer-facing assets, one file each.
+- `campaigns/[campaign-name]/review-log.md`: internal record of every `/review` run, its findings and their status, newest first.
 - `campaigns/[campaign-name]/graphics/`: images named `[campaign-name]-[asset].png`, with editable HTML sources in `graphics/src/`.
 
 **Precedence when documents disagree:** `company-facts.md` and `products.md`, then `proof-points.md`, then everything else.

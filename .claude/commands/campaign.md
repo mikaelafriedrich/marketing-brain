@@ -17,4 +17,4 @@ Update the brief:
 - Keep an "Assets and schedule" table listing each asset with a link to its file and graphic, a suggested go-live date, a "final by" date, and its status.
 - Remove the prompts in parentheses from the field labels.
 
-When finished, run the checks in .claude/commands/review.md on the campaign folder and fix any issues you find. Then give me a short summary of what you created and anything that needs my decision.
+When finished, run the checks in .claude/commands/review.md on the campaign folder and fix any issues you find. Record the review and the fixes in the campaign's review-log.md, and link the log from the brief. Then give me a short summary of what you created and anything that needs my decision.

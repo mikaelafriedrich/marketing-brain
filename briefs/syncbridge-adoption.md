@@ -188,8 +188,8 @@ Suggested dates. The webinar needs about two weeks of promotion, so the sign-up 
 | Go live | Asset | Track | Final by | Status |
 |---|---|---|---|---|
 | Thu, Nov 5 | Webinar sign-up page | Both | Wed, Nov 4 | Not started |
-| Thu, Nov 5 | [Email 1: SyncBridge is already on your plan](../campaigns/syncbridge-adoption/email-1-scale.md) ([header](../campaigns/syncbridge-adoption/graphics/syncbridge-adoption-email-1-header.png)) | Scale | Wed, Nov 4 | Draft, reviewed |
-| Thu, Nov 5 | [LinkedIn post 1: the manual import gap](../campaigns/syncbridge-adoption/linkedin-post-1.md) ([image](../campaigns/syncbridge-adoption/graphics/syncbridge-adoption-linkedin-post-1.png)) | Public | Wed, Nov 4 | Draft, reviewed |
+| Thu, Nov 5 | [Email 1: SyncBridge is already on your plan](../campaigns/syncbridge-adoption/email-1-scale.md) ([header](../campaigns/syncbridge-adoption/graphics/syncbridge-adoption-email-1-header.png)) | Scale | Wed, Nov 4 | Draft, reviewed Oct 30 |
+| Thu, Nov 5 | [LinkedIn post 1: the manual import gap](../campaigns/syncbridge-adoption/linkedin-post-1.md) ([image](../campaigns/syncbridge-adoption/graphics/syncbridge-adoption-linkedin-post-1.png)) | Public | Wed, Nov 4 | Draft, reviewed Oct 30 |
 | Fri, Nov 6 | Webinar proposal and outline (internal; for speakers) | — | Fri, Nov 6 | Not started |
 | Mon, Nov 9 | Email 2: the upgrade path, plus the webinar invite | Professional | Fri, Nov 6 | Not started |
 | Wed, Nov 11 | LinkedIn post 2: webinar promotion | Public | Tue, Nov 10 | Not started |
@@ -201,6 +201,7 @@ Suggested dates. The webinar needs about two weeks of promotion, so the sign-up 
 
 - Registration confirmations and day-of reminders come from the webinar tool and aren't counted as campaign emails.
 - Editable HTML sources for the graphics are in [`campaigns/syncbridge-adoption/graphics/src/`](../campaigns/syncbridge-adoption/graphics/src/).
+- **Review log:** every `/review` run, its findings and what was fixed are recorded in [`campaigns/syncbridge-adoption/review-log.md`](../campaigns/syncbridge-adoption/review-log.md). Last review: October 30, 2026, 5 issues fixed, placeholders still open.
 
 ---
 
