@@ -2,6 +2,8 @@
 
 As of October 29, 2026. TraceDesk, its customers, competitors and data are fictional, created for world-building and workflow testing. Real regulators, ERPs and review sites are referenced for context.
 
+**New here?** Start with [`GUIDE.md`](GUIDE.md): how this works and how to run a campaign. Writing a brief? See [`briefs/BRIEF-GUIDE.md`](briefs/BRIEF-GUIDE.md).
+
 ## Files
 
 | File | Purpose |
@@ -15,6 +17,8 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 | [`proof-points.md`](proof-points.md) | Fact-checker: customer-base metrics, case studies, research findings, claim guardrails |
 | [`testimonials.md`](testimonials.md) | Approved quote library with IDs |
 | [`decisions.md`](decisions.md) | Dated log of decisions behind this repo, and why |
+| [`GUIDE.md`](GUIDE.md) | How the Marketing Brain works and how to run a campaign, for the whole team |
+| [`briefs/BRIEF-GUIDE.md`](briefs/BRIEF-GUIDE.md) | How to write a campaign brief: field-by-field tips, checklist, common mistakes |
 | [`briefs/template.md`](briefs/template.md) | Blank campaign brief: goal, audience, message, proof points, assets, deadline, things to avoid |
 | [`.claude/commands/campaign.md`](.claude/commands/campaign.md) | `/campaign <brief>`: writes every asset in a brief to `campaigns/<name>/`, then runs `/review` and fixes what it finds |
 | [`.claude/commands/review.md`](.claude/commands/review.md) | `/review <folder>`: checks sources, unsupported claims, brand voice, plan labels, dates and links; reports issues and records them in the campaign's review log |

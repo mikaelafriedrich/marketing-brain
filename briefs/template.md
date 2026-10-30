@@ -1,6 +1,6 @@
 # Campaign Brief
 
-> **How to use:** Copy this file to `briefs/[campaign-name].md`. Delete the prompts in parentheses as you fill it in. Use headings, bullets and bold labels. Briefs are internal, so internal numbers are fine here, but keep them out of campaign assets.
+> **How to use:** Copy this file to `briefs/[campaign-name].md`. Delete the prompts in parentheses as you fill it in. Use headings, bullets and bold labels. Briefs are internal, so internal numbers are fine here, but keep them out of campaign assets. Tips for every field are in [BRIEF-GUIDE.md](BRIEF-GUIDE.md).
 
 Campaign name:
 Primary goal (one measurable thing):
