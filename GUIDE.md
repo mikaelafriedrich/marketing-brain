@@ -97,6 +97,7 @@ When Claude finishes changing files, it asks whether to commit and push to GitHu
 |---|---|---|
 | `/campaign [brief]` | Writes every asset in a brief, makes graphics, reviews and fixes, logs the review, and updates the brief. | `/campaign briefs/holiday-renewals.md` |
 | `/review [folder]` | Checks a campaign folder and reports issues. Doesn't change the assets. Logs the review. | `/review campaigns/holiday-renewals/` |
+| `/weekly-report [audience]` | Reads the exports in `data/` and the targets in `goals.md`, then writes an offline HTML report to `reports/`: a goals scorecard, what changed, what needs attention and what to try next. It also writes a data notes file with next week's upload checklist. With no audience it uses the one in `goals.md`. | `/weekly-report` or `/weekly-report the CEO, who wants a 2-minute summary` |
 
 ### What `/review` checks
 
@@ -119,6 +120,9 @@ When Claude finishes changing files, it asks whether to commit and push to GitHu
 | `campaigns/[campaign-name]/graphics/` | Images, named `[campaign-name]-[asset].png` | Upload these to email or social tools |
 | `campaigns/[campaign-name]/graphics/src/` | Editable versions of the images | Ask Claude to change the text and re-export |
 | `campaigns/[campaign-name]/review-log.md` | Every review, what it found, what was fixed | **Internal**, team only |
+| `goals.md` | Marketing targets and the default report audience | **Internal**, team only |
+| `data/` | Exports (GA4, ads, CRM, email), notes on how to read them, and readable campaign names. Each week, add only that week's files and re-export the two CRM files; the latest data notes file has the checklist | **Internal**, team only |
+| `reports/` | Weekly reports (`YYYY-MM-DD-weekly-report.html`) and their data notes (`YYYY-MM-DD-data-notes.md`) | **Internal**, team only |
 | `decisions.md` | Why things are set up the way they are | Anyone wondering "why do we do it this way?" |
 | `README.md` | An index of every file | Finding things |
 

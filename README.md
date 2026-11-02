@@ -21,6 +21,8 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 | [`briefs/BRIEF-GUIDE.md`](briefs/BRIEF-GUIDE.md) | How to write a campaign brief: field-by-field tips, checklist, common mistakes |
 | [`briefs/template.md`](briefs/template.md) | Blank campaign brief: goal, audience, message, proof points, assets, deadline, things to avoid |
 | [`.claude/commands/campaign.md`](.claude/commands/campaign.md) | `/campaign <brief>`: writes every asset in a brief to `campaigns/<name>/`, then runs `/review` and fixes what it finds |
+| [`goals.md`](goals.md) | Marketing targets, how to rate them (On track, Watch, Off track) and the default report audience. Internal |
+| [`.claude/commands/weekly-report.md`](.claude/commands/weekly-report.md) | `/weekly-report [audience]`: reads `data/` and `goals.md` and writes an offline HTML report and a data notes file (with next week's upload checklist) to `reports/` |
 | [`.claude/commands/review.md`](.claude/commands/review.md) | `/review <folder>`: checks sources, unsupported claims, brand voice, plan labels, dates and links; reports issues and records them in the campaign's review log |
 
 **Campaign folders**
@@ -29,5 +31,11 @@ As of October 29, 2026. TraceDesk, its customers, competitors and data are ficti
 - `campaigns/[campaign-name]/`: customer-facing assets, one file each.
 - `campaigns/[campaign-name]/review-log.md`: internal record of every `/review` run, its findings and their status, newest first.
 - `campaigns/[campaign-name]/graphics/`: images named `[campaign-name]-[asset].png`, with editable HTML sources in `graphics/src/`.
+
+**Reporting folders**
+
+- `data/`: exports named by source and date (`ga4-*`, `ga4-key-events-*`, `google-ads-*`, `linkedin-ads-*`, `email-*`, `crm-contacts-*`, `crm-deals-*`), plus notes files and `campaign-names.csv` (readable names for ad campaigns). Each week, add only that week's files; re-export the two CRM files in full.
+- `reports/YYYY-MM-DD-weekly-report.html`: one self-contained report per run. Internal, like briefs.
+- `reports/YYYY-MM-DD-data-notes.md`: the upload checklist for next week, plus method, data checks and issues for that run.
 
 **Precedence when documents disagree:** `company-facts.md` and `products.md`, then `proof-points.md`, then everything else.

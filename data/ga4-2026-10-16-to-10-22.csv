@@ -1,0 +1,18 @@
+# ----------------------------------------
+# Traffic acquisition: Session primary channel group (Default Channel Group)
+# Account: TraceDesk
+# Property: TraceDesk Website - GA4
+# NOTE: SIMULATED DATA - generated for reporting-agent development, not a real GA4 export
+# ----------------------------------------
+# Start date: 20261016
+# End date: 20261022
+
+Session primary channel group (Default Channel Group),Users,Sessions,Engaged sessions,Engagement rate,Average engagement time per session,Engaged sessions per user,Events per session,Event count,Key events,Session key event rate,Total revenue
+Organic Search,371,438,262,0.5982,71.80,0.7062,4.90,2146,12,0.0274,0
+Direct,318,379,209,0.5515,59.90,0.6572,4.40,1668,7,0.0185,0
+Paid Search,124,146,82,0.5616,48.70,0.6613,4.00,584,5,0.0342,0
+Paid Social,83,97,42,0.4330,31.50,0.5060,3.20,310,2,0.0206,0
+Referral,61,73,48,0.6575,88.20,0.7869,5.70,416,3,0.0411,0
+Organic Social,44,52,22,0.4231,28.40,0.5000,3.20,166,1,0.0192,0
+Email,25,31,22,0.7097,79.60,0.8800,5.20,161,2,0.0645,0
+Unassigned,8,10,2,0.2000,7.10,0.2500,1.80,18,0,0.0000,0

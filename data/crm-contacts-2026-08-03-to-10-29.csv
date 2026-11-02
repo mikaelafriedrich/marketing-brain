@@ -1,0 +1,265 @@
+Contact ID,Created Date,Lead Source,UTM Source,UTM Medium,UTM Campaign,Lifecycle Stage,Lead Status,Demo Requested Date,Became MQL Date,Became SQL Date,Job Title,Company Size,Industry,Owner
+10104,2026-08-03,Direct Traffic,,,,Opportunity,Nurture,,2026-08-03,2026-08-03,Procurement Manager,101-200,Manufacturing,Daniel Okafor
+10121,2026-08-07,Organic Search,,,,Opportunity,Unqualified,,2026-08-08,2026-08-08,Director of Procurement,501-700,Logistics,Maya Chen
+10132,2026-08-09,Organic Search,,,,Customer,Qualified,,2026-08-10,2026-08-12,Supply Chain Manager,101-200,Manufacturing,Daniel Okafor
+10142,2026-08-15,Paid Search,google,cpc,coi-tracking-manufacturing,Opportunity,Unqualified,,2026-08-15,2026-08-17,Operations Manager,51-100,Construction,Maya Chen
+10152,2026-08-18,Referrals,ism-org,referral,,Customer,Qualified,,2026-08-18,2026-08-18,Procurement Manager,101-200,Food & Beverage,Priya Nair
+10164,2026-08-19,Referrals,g2,referral,,Customer,Qualified,,2026-08-21,2026-08-21,COO,201-500,Logistics,Priya Nair
+10177,2026-08-26,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Opportunity,Unqualified,,2026-08-26,2026-08-26,Procurement Manager,201-500,Manufacturing,Priya Nair
+10243,2026-09-01,Direct Traffic,,,,Lead,Unqualified,2026-09-01,,,Consultant,51-100,Food & Beverage,Maya Chen
+10245,2026-09-01,Organic Search,,,,Subscriber,Nurture,,,,,,,
+10247,2026-09-01,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,New,,,,COO,201-500,Healthcare,
+10248,2026-09-01,Organic Search,,,,Opportunity,Nurture,2026-09-01,2026-09-01,2026-09-01,Procurement Manager,101-200,Food & Beverage,Daniel Okafor
+10251,2026-09-01,Paid Search,google,cpc,coi-tracking-manufacturing,Subscriber,New,,,,Vendor Operations Manager,101-200,Manufacturing,
+10254,2026-09-01,Organic Search,,,,Sales Qualified Lead,Qualified,2026-09-01,2026-09-01,2026-09-07,Operations Manager,101-200,Manufacturing,Priya Nair
+10255,2026-09-02,Direct Traffic,,,,Subscriber,Nurture,,,,Vendor Operations Manager,51-100,Manufacturing,
+10259,2026-09-02,Organic Search,,,,Subscriber,New,,,,Operations Manager,101-200,Healthcare,
+10262,2026-09-02,Direct Traffic,,,,Lead,Unqualified,,,,Supply Chain Manager,1000+,Manufacturing,
+10266,2026-09-02,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Marketing Qualified Lead,Attempting,2026-09-04,2026-09-05,,Supply Chain Manager,101-200,Manufacturing,Priya Nair
+10270,2026-09-02,Paid Social,linkedin,paid-social,li-vendor-audit-fb,Customer,Qualified,2026-09-02,2026-09-02,2026-09-02,Director of Procurement,201-500,Logistics,Daniel Okafor
+10272,2026-09-02,Offline Sources,,,,Subscriber,New,,,,Office Manager,1-50,Logistics,
+10276,2026-09-02,Organic Social,linkedin,social,organic-post,Subscriber,New,,,,,,,
+10278,2026-09-03,Referrals,ism-org,referral,,Lead,Attempting,2026-09-25,,,COO,51-100,Facilities Management,
+10279,2026-09-03,Referrals,g2,referral,,Opportunity,Unqualified,2026-09-03,2026-09-03,2026-09-03,VP Operations,501-700,Manufacturing,Maya Chen
+10280,2026-09-03,Paid Search,google,cpc,brand-tracedesk,Marketing Qualified Lead,New,2026-09-03,2026-09-12,,Vendor Operations Manager,1000+,Manufacturing,Maya Chen
+10283,2026-09-03,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-09-03,2026-09-09,,VP Operations,1-50,Food & Beverage,Daniel Okafor
+10284,2026-09-04,Organic Search,,,,Lead,Nurture,,,,VP Operations,201-500,Manufacturing,
+10285,2026-09-04,Referrals,capterra,referral,,Subscriber,New,,,,,,,
+10289,2026-09-04,Organic Search,,,,Subscriber,New,,,,Operations Manager,51-100,Manufacturing,
+10291,2026-09-04,Organic Search,,,,Lead,Nurture,,,,COO,101-200,Retail,Priya Nair
+10292,2026-09-04,Organic Search,,,,Subscriber,Nurture,,,,Supply Chain Manager,101-200,Logistics,
+10293,2026-09-04,Paid Search,google,cpc,coi-tracking-manufacturing,Sales Qualified Lead,Connected,2026-09-04,2026-09-05,2026-09-14,Procurement Manager,201-500,Retail,Priya Nair
+10296,2026-09-05,Referrals,capterra,referral,,Opportunity,Qualified,2026-09-07,2026-09-07,2026-09-11,VP Operations,201-500,Facilities Management,Maya Chen
+10298,2026-09-07,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-09-07,2026-09-10,,Accounts Payable Lead,1-50,Construction,Daniel Okafor
+10299,2026-09-07,Paid Search,google,cpc,brand-tracedesk,Opportunity,Unqualified,2026-09-07,2026-09-10,2026-09-11,Supply Chain Manager,201-500,Logistics,Daniel Okafor
+10302,2026-09-07,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-09-10,2026-09-12,,Vendor Operations Manager,201-500,Manufacturing,Priya Nair
+10305,2026-09-07,Referrals,ism-org,referral,,Marketing Qualified Lead,Connected,2026-09-11,2026-09-15,,Operations Manager,201-500,Manufacturing,Maya Chen
+10307,2026-09-07,Referrals,g2,referral,,Lead,Unqualified,2026-09-28,,,VP Operations,501-700,Retail,Priya Nair
+10308,2026-09-07,Organic Search,,,,Subscriber,New,,,,Vendor Operations Manager,51-100,Food & Beverage,
+10309,2026-09-07,Organic Search,,,,Subscriber,New,,,,COO,101-200,Other,
+10311,2026-09-07,Organic Search,,,,Subscriber,New,,,,,,,
+10313,2026-09-07,Organic Search,,,,Customer,Qualified,2026-09-07,2026-09-07,2026-09-08,Operations Manager,101-200,Food & Beverage,Priya Nair
+10317,2026-09-07,Organic Search,,,,Subscriber,New,,,,COO,51-100,Construction,
+10319,2026-09-07,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,Attempting,2026-09-07,,,EHS Manager,101-200,Healthcare,
+10321,2026-09-08,Direct Traffic,,,,Marketing Qualified Lead,New,2026-09-09,2026-09-09,,VP Operations,201-500,Manufacturing,Maya Chen
+10325,2026-09-08,Paid Search,GOOGLE,cpc,expired-certificate-tracking,Subscriber,New,,,,,,,
+10329,2026-09-08,Organic Search,,,,Lead,Unqualified,2026-09-09,,,Supply Chain Manager,101-200,Manufacturing,Priya Nair
+10332,2026-09-08,Organic Search,,,,Lead,Unqualified,2026-09-23,,,Director of Procurement,101-200,Manufacturing,Priya Nair
+10336,2026-09-08,Direct Traffic,,,,Subscriber,New,,,,Supply Chain Manager,201-500,Manufacturing,
+10337,2026-09-08,Direct Traffic,,,,Subscriber,New,,,,VP Operations,1000+,Logistics,
+10341,2026-09-08,Organic Search,,,,Subscriber,New,,,,Vendor Operations Manager,501-700,Other,
+10342,2026-09-08,Referrals,capterra,referral,,Marketing Qualified Lead,Attempting,2026-09-08,2026-09-08,,Director of Procurement,501-700,Logistics,Maya Chen
+10345,2026-09-08,Direct Traffic,,,,Subscriber,New,,,,Vendor Operations Manager,1-50,Logistics,
+10348,2026-09-09,Referrals,g2,referral,,Lead,Unqualified,2026-10-28,,,Consultant,201-500,Food & Beverage,
+10352,2026-09-09,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-09-10,2026-09-10,,Director of Procurement,501-700,Manufacturing,Maya Chen
+10353,2026-09-09,Referrals,g2,referral,,Subscriber,Nurture,,,,Operations Manager,101-200,Software,
+10355,2026-09-09,Direct Traffic,,,,Sales Qualified Lead,Qualified,2026-09-10,2026-09-16,2026-09-17,Operations Manager,201-500,Facilities Management,Priya Nair
+10357,2026-09-09,Organic Search,,,,Lead,Unqualified,2026-09-16,,,Vendor Operations Manager,1-50,Other,Daniel Okafor
+10360,2026-09-09,Organic Search,,,,Marketing Qualified Lead,Connected,2026-09-09,2026-09-14,,EHS Manager,201-500,Healthcare,Maya Chen
+10362,2026-09-09,Email Marketing,newsletter,email,newsletter-2026-09-15,Marketing Qualified Lead,Connected,2026-09-09,2026-09-11,,VP Operations,501-700,Manufacturing,Maya Chen
+10363,2026-09-10,Offline Sources,,,,Lead,Unqualified,,,,Office Manager,101-200,Logistics,
+10365,2026-09-10,Paid Search,google,cpc,vendor-compliance-software-exact,Lead,New,,,,Supply Chain Manager,201-500,Food & Beverage,
+10366,2026-09-10,Organic Search,,,,Lead,Unqualified,2026-09-16,,,Supply Chain Manager,201-500,Software,Priya Nair
+10367,2026-09-10,Referrals,ism-org,referral,,Sales Qualified Lead,Qualified,2026-09-14,2026-09-17,2026-09-22,COO,701-1000,Retail,Maya Chen
+10371,2026-09-11,Direct Traffic,,,,Lead,Attempting,2026-09-30,,,VP Operations,101-200,Food & Beverage,Daniel Okafor
+10375,2026-09-11,Referrals,g2,referral,,Lead,New,,,,Procurement Manager,501-700,Manufacturing,
+10379,2026-09-11,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Subscriber,Nurture,,,,Buyer,101-200,Construction,
+10383,2026-09-12,Organic Social,linkedin,social,organic-post,Marketing Qualified Lead,Attempting,,2026-09-19,,Student,501-700,Manufacturing,Daniel Okafor
+10386,2026-09-12,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Lead,New,,,,COO,101-200,Manufacturing,
+10387,2026-09-13,Organic Search,,,,Subscriber,New,,,,Director of Procurement,51-100,Manufacturing,
+10390,2026-09-14,Referrals,g2,referral,,Marketing Qualified Lead,Connected,2026-09-17,2026-09-19,,Procurement Manager,101-200,Retail,Daniel Okafor
+10394,2026-09-14,Direct Traffic,,,,Lead,Nurture,,,,Vendor Operations Manager,101-200,Software,
+10396,2026-09-14,Email Marketing,newsletter,email,newsletter-2026-09-15,Subscriber,New,,,,,,,
+10398,2026-09-14,Email Marketing,newsletter,email,newsletter-2026-09-15,Opportunity,Nurture,2026-09-14,2026-09-16,2026-09-17,Supply Chain Manager,201-500,Food & Beverage,Daniel Okafor
+10399,2026-09-15,Organic Search,,,,Lead,New,,,,Student,51-100,Healthcare,Priya Nair
+10403,2026-09-15,Organic Search,,,,Sales Qualified Lead,Qualified,2026-09-16,2026-09-17,2026-09-29,Operations Manager,201-500,Facilities Management,Maya Chen
+10406,2026-09-15,Direct Traffic,,,,Lead,Unqualified,2026-09-16,,,COO,51-100,Manufacturing,
+10407,2026-09-15,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,Unqualified,2026-09-16,,,Director of Procurement,101-200,Healthcare,Daniel Okafor
+10410,2026-09-15,Organic Search,,,,Lead,Unqualified,2026-09-18,,,COO,201-500,Healthcare,
+10413,2026-09-15,Organic Search,,,,Subscriber,New,,,,Procurement Manager,501-700,Healthcare,
+10414,2026-09-16,Paid Social,linkedin,paid-social,li-vendor-audit-fb,Lead,Unqualified,2026-09-16,,,EHS Manager,1-50,Manufacturing,
+10418,2026-09-16,Offline Sources,,,,Lead,Unqualified,,,,Vendor Operations Manager,1-50,Manufacturing,
+10420,2026-09-16,Referrals,ism-org,referral,,Lead,Nurture,,,,Office Manager,51-100,Food & Beverage,Priya Nair
+10421,2026-09-16,Direct Traffic,,,,Lead,Unqualified,2026-09-22,,,VP Operations,501-700,Software,
+10422,2026-09-16,Organic Search,,,,Subscriber,New,,,,,,,
+10423,2026-09-16,Paid Search,google,cpc,brand-tracedesk,Opportunity,Qualified,2026-09-16,2026-09-16,2026-09-16,Procurement Manager,201-500,Construction,Maya Chen
+10424,2026-09-16,Direct Traffic,,,,Lead,New,,,,Accounts Payable Lead,1000+,Facilities Management,
+10427,2026-09-16,Paid Search,google,cpc,vendor-compliance-software-exact,Lead,Unqualified,2026-09-24,,,Supply Chain Manager,1000+,Manufacturing,
+10429,2026-09-17,Direct Traffic,,,,Marketing Qualified Lead,Attempting,2026-09-17,2026-09-17,,Compliance Coordinator,101-200,Logistics,Maya Chen
+10431,2026-09-17,Paid Search,google,cpc,vendor-compliance-software-exact,Lead,Unqualified,2026-09-23,,,COO,1000+,Facilities Management,Priya Nair
+10435,2026-09-17,Organic Search,,,,Lead,Unqualified,2026-09-17,,,Compliance Coordinator,201-500,Manufacturing,Maya Chen
+10437,2026-09-17,Organic Search,,,,Sales Qualified Lead,Connected,2026-09-17,2026-09-17,2026-09-24,Supply Chain Manager,101-200,Manufacturing,Maya Chen
+10439,2026-09-17,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-09-17,2026-09-21,,Procurement Manager,101-200,Construction,Maya Chen
+10443,2026-09-17,Referrals,ism-org,referral,,Lead,Unqualified,2026-10-07,,,VP Operations,1-50,Manufacturing,Maya Chen
+10446,2026-09-17,Organic Social,linkedin,social,organic-post,Opportunity,Nurture,,2026-09-21,2026-09-21,Procurement Manager,51-100,Manufacturing,Daniel Okafor
+10447,2026-09-17,Paid Search,google,cpc,expired-certificate-tracking,Customer,Qualified,2026-09-17,2026-09-21,2026-09-21,Vendor Operations Manager,201-500,Food & Beverage,Daniel Okafor
+10450,2026-09-18,Email Marketing,newsletter,email,newsletter-2026-09-15,Subscriber,Nurture,,,,Operations Manager,1-50,Other,
+10454,2026-09-18,Organic Search,,,,Subscriber,Nurture,,,,Supply Chain Manager,201-500,Healthcare,
+10457,2026-09-18,Direct Traffic,,,,Subscriber,New,,,,Buyer,1000+,Logistics,
+10460,2026-09-18,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Marketing Qualified Lead,Attempting,2026-09-18,2026-09-20,,COO,201-500,Logistics,Priya Nair
+10461,2026-09-19,Organic Search,,,,Lead,Unqualified,2026-09-24,,,Consultant,201-500,Food & Beverage,
+10463,2026-09-20,Direct Traffic,,,,Subscriber,Nurture,,,,Consultant,201-500,Software,
+10464,2026-09-20,Organic Social,linkedin,social,organic-post,Subscriber,New,,,,Office Manager,201-500,Logistics,
+10467,2026-09-20,Organic Social,linkedin,social,organic-post,Subscriber,Nurture,,,,VP Operations,1-50,Construction,
+10470,2026-09-20,Organic Search,,,,Marketing Qualified Lead,Connected,2026-09-24,2026-09-24,,EHS Manager,51-100,Logistics,Priya Nair
+10471,2026-09-21,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Lead,Nurture,,,,Operations Manager,201-500,Food & Beverage,Maya Chen
+10474,2026-09-21,Organic Search,,,,Subscriber,New,,,,Operations Manager,1-50,Manufacturing,
+10478,2026-09-21,Organic Search,,,,Lead,New,,,,Compliance Coordinator,501-700,Other,Priya Nair
+10479,2026-09-21,Direct Traffic,,,,Lead,Nurture,,,,Director of Procurement,201-500,Food & Beverage,
+10482,2026-09-22,Organic Search,,,,Lead,Nurture,,,,Supply Chain Manager,201-500,Logistics,Daniel Okafor
+10486,2026-09-22,Direct Traffic,,,,Subscriber,New,,,,,,,
+10490,2026-09-22,Organic Search,,,,Marketing Qualified Lead,New,2026-09-23,2026-10-01,,Software Engineer,101-200,Software,Daniel Okafor
+10492,2026-09-23,Organic Search,,,,Lead,New,,,,Software Engineer,51-100,Manufacturing,Maya Chen
+10493,2026-09-23,Organic Search,,,,Subscriber,New,,,,COO,1-50,Healthcare,
+10496,2026-09-23,Referrals,g2,referral,,Lead,Unqualified,2026-10-12,,,Procurement Manager,201-500,Food & Beverage,Daniel Okafor
+10498,2026-09-23,Referrals,g2,referral,,Marketing Qualified Lead,Connected,2026-09-23,2026-09-26,,COO,201-500,Food & Beverage,Daniel Okafor
+10501,2026-09-23,Referrals,g2,referral,,Opportunity,Qualified,2026-09-23,2026-09-24,2026-09-24,Procurement Manager,201-500,Food & Beverage,Maya Chen
+10503,2026-09-23,Paid Social,linkedin,paid-social,li-vendor-audit-fb,Subscriber,Nurture,,,,,,,
+10505,2026-09-24,Direct Traffic,,,,Marketing Qualified Lead,Attempting,2026-09-24,2026-09-24,,Supply Chain Manager,101-200,Manufacturing,Daniel Okafor
+10509,2026-09-24,Organic Search,,,,Subscriber,New,,,,Office Manager,101-200,Manufacturing,
+10510,2026-09-24,Organic Search,,,,Marketing Qualified Lead,New,2026-09-24,2026-10-01,,Procurement Manager,1-50,Logistics,Priya Nair
+10514,2026-09-24,Direct Traffic,,,,Lead,Unqualified,2026-10-01,,,Director of Procurement,1-50,Healthcare,Maya Chen
+10552,2026-09-24,Email Marketing,newsletter,email,newsletter-2026-09-15,Sales Qualified Lead,Qualified,2026-09-24,2026-09-25,2026-10-05,Director of Procurement,501-700,Construction,Maya Chen
+10515,2026-09-25,Organic Search,,,,Lead,Unqualified,2026-10-15,,,Compliance Coordinator,1000+,Logistics,Priya Nair
+10517,2026-09-25,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Lead,New,,,,COO,501-700,Logistics,
+10519,2026-09-25,Paid Social,linkedin,paid-social,li-vendor-audit-fb,Opportunity,Qualified,2026-09-25,2026-09-25,2026-09-25,Procurement Manager,101-200,Logistics,Priya Nair
+10522,2026-09-25,Referrals,ism-org,referral,,Lead,Nurture,,,,VP Operations,51-100,Construction,Maya Chen
+10524,2026-09-25,Organic Search,,,,Lead,New,,,,Supply Chain Manager,101-200,Retail,Maya Chen
+10527,2026-09-25,Referrals,capterra,referral,,Lead,Nurture,,,,Procurement Manager,1-50,Food & Beverage,
+10529,2026-09-25,Direct Traffic,,,,Subscriber,New,,,,Supply Chain Manager,51-100,Construction,
+10531,2026-09-26,Direct Traffic,,,,Lead,Unqualified,,,,Marketing Manager,201-500,Food & Beverage,Priya Nair
+10534,2026-09-27,Organic Search,,,,Subscriber,Nurture,,,,Procurement Manager,701-1000,Retail,
+10535,2026-09-27,Organic Search,,,,Lead,Nurture,,,,VP Operations,101-200,Logistics,Priya Nair
+10539,2026-09-27,Organic Search,,,,Lead,Unqualified,2026-10-14,,,Operations Manager,501-700,Software,
+10540,2026-09-27,Organic Search,,,,Lead,Unqualified,2026-10-14,,,Marketing Manager,501-700,Software,
+10541,2026-09-27,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-09-30,2026-10-06,,COO,1000+,Logistics,Maya Chen
+10544,2026-09-27,Organic Search,,,,Lead,Unqualified,2026-10-01,,,Operations Manager,1-50,Other,
+10545,2026-09-27,Organic Search,,,,Opportunity,Qualified,2026-09-27,2026-09-27,2026-09-27,Procurement Manager,51-100,Food & Beverage,Maya Chen
+10548,2026-09-28,Offline Sources,,,,Lead,New,,,,Operations Manager,201-500,Facilities Management,Priya Nair
+10549,2026-09-28,Organic Search,,,,Opportunity,Qualified,2026-09-28,2026-09-28,2026-09-28,Procurement Manager,201-500,Construction,Maya Chen
+10564,2026-09-28,Paid Search,google,cpc,vendor-compliance-software-exact,Marketing Qualified Lead,Connected,2026-09-28,2026-09-30,,Procurement Manager,101-200,Food & Beverage,Maya Chen
+10550,2026-09-29,Organic Search,,,,Lead,Unqualified,2026-09-30,,,Vendor Operations Manager,1000+,Construction,Daniel Okafor
+10553,2026-09-29,Referrals,g2,referral,,Lead,Unqualified,2026-10-22,,,VP Operations,101-200,Other,
+10554,2026-09-29,Email Marketing,newsletter,email,newsletter-2026-09-29,Lead,Unqualified,2026-10-01,,,VP Operations,51-100,Food & Beverage,Maya Chen
+10558,2026-09-29,Organic Search,,,,Sales Qualified Lead,Connected,2026-10-01,2026-10-01,2026-10-10,Operations Manager,501-700,Logistics,Daniel Okafor
+10559,2026-09-29,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Lead,Attempting,,,,Marketing Manager,51-100,Other,Daniel Okafor
+10560,2026-09-29,Email Marketing,newsletter,email,newsletter-2026-09-29,Subscriber,Nurture,,,,,,,
+10563,2026-09-30,Direct Traffic,,,,Lead,Unqualified,2026-10-23,,,Buyer,51-100,Software,Priya Nair
+10567,2026-09-30,Referrals,g2,referral,,Subscriber,New,,,,,,,
+10569,2026-09-30,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Lead,Attempting,2026-10-21,,,COO,201-500,Food & Beverage,Maya Chen
+10573,2026-09-30,Paid Search,google,cpc,vendor-compliance-software-exact,Subscriber,Nurture,,,,Operations Manager,101-200,Food & Beverage,
+10574,2026-09-30,Paid Search,google,cpc,brand-tracedesk,Lead,Unqualified,2026-09-30,,,Compliance Coordinator,201-500,Logistics,
+10575,2026-10-01,Offline Sources,,,,Lead,Unqualified,,,,Operations Manager,501-700,Software,
+10579,2026-10-01,Organic Search,,,,Lead,New,,,,Procurement Manager,201-500,Facilities Management,
+10580,2026-10-01,Referrals,ism-org,referral,,Lead,Unqualified,2026-10-21,,,Director of Procurement,1-50,Facilities Management,
+10581,2026-10-01,Paid Search,google,cpc,brand-tracedesk,Sales Qualified Lead,Connected,2026-10-01,2026-10-03,2026-10-12,Vendor Operations Manager,101-200,Logistics,Maya Chen
+10582,2026-10-02,Organic Search,,,,Lead,Attempting,2026-10-02,,,Director of Procurement,1-50,Construction,
+10585,2026-10-02,Organic Search,,,,Subscriber,New,,,,EHS Manager,101-200,Food & Beverage,
+10589,2026-10-02,Organic Search,,,,Lead,Nurture,,,,Director of Procurement,51-100,Construction,Maya Chen
+10590,2026-10-02,Email Marketing,newsletter,email,newsletter-2026-09-29,Lead,Attempting,2026-10-02,,,EHS Manager,201-500,Construction,
+10591,2026-10-03,Paid Search,google,cpc,brand-tracedesk,Lead,Nurture,,,,COO,1-50,Facilities Management,Priya Nair
+10593,2026-10-03,Organic Search,,,,Sales Qualified Lead,Connected,2026-10-07,2026-10-08,2026-10-11,Vendor Operations Manager,201-500,Logistics,Priya Nair
+10597,2026-10-04,Direct Traffic,,,,Lead,Unqualified,,,,Procurement Manager,101-200,Facilities Management,
+10600,2026-10-04,Organic Search,,,,Subscriber,New,,,,VP Operations,101-200,Other,
+10602,2026-10-04,Organic Search,,,,Subscriber,New,,,,COO,101-200,Construction,
+10604,2026-10-04,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Subscriber,New,,,,Procurement Manager,1-50,Manufacturing,
+10607,2026-10-05,Organic Search,,,,Opportunity,Qualified,2026-10-05,2026-10-05,2026-10-05,Procurement Manager,201-500,Facilities Management,Maya Chen
+10610,2026-10-05,Organic Search,,,,Opportunity,Qualified,2026-10-05,2026-10-09,2026-10-10,Vendor Operations Manager,201-500,Food & Beverage,Maya Chen
+10614,2026-10-05,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Marketing Qualified Lead,Connected,2026-10-05,2026-10-05,,Director of Procurement,101-200,Logistics,Maya Chen
+10617,2026-10-05,Organic Search,,,,Subscriber,Nurture,,,,Software Engineer,51-100,Food & Beverage,
+10618,2026-10-05,Direct Traffic,,,,Lead,Unqualified,,,,Procurement Manager,51-100,Manufacturing,
+10620,2026-10-05,Referrals,g2,referral,,Opportunity,Qualified,2026-10-06,2026-10-07,2026-10-07,Vendor Operations Manager,201-500,Manufacturing,Priya Nair
+10621,2026-10-05,Paid Search,google,cpc,expired-certificate-tracking,Lead,Unqualified,2026-10-06,,,Accounts Payable Lead,201-500,Manufacturing,
+10622,2026-10-06,Direct Traffic,,,,Opportunity,Qualified,2026-10-06,2026-10-08,2026-10-09,Vendor Operations Manager,201-500,Manufacturing,Priya Nair
+10625,2026-10-06,Direct Traffic,,,,Lead,Unqualified,,,,COO,201-500,Healthcare,
+10627,2026-10-06,Paid Search,google,cpc,coi-tracking-manufacturing,Subscriber,New,,,,,,,
+10630,2026-10-06,Referrals,g2,referral,,Marketing Qualified Lead,Attempting,2026-10-07,2026-10-14,,Supply Chain Manager,51-100,Logistics,Daniel Okafor
+10631,2026-10-06,Offline Sources,,,,Subscriber,New,,,,VP Operations,1000+,Other,
+10633,2026-10-07,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,Unqualified,2026-10-08,,,COO,1-50,Software,
+10636,2026-10-07,Organic Search,,,,Lead,Unqualified,2026-10-07,,,Vendor Operations Manager,1000+,Food & Beverage,Priya Nair
+10639,2026-10-07,Organic Search,,,,Lead,Unqualified,2026-10-08,,,COO,701-1000,Logistics,Maya Chen
+10642,2026-10-07,Direct Traffic,,,,Marketing Qualified Lead,New,2026-10-08,2026-10-12,,Consultant,701-1000,Logistics,Daniel Okafor
+10644,2026-10-08,Organic Search,,,,Sales Qualified Lead,Connected,2026-10-08,2026-10-14,2026-10-27,Director of Procurement,201-500,Construction,Priya Nair
+10647,2026-10-08,Organic Search,,,,Lead,Nurture,,,,Marketing Manager,51-100,Logistics,Maya Chen
+10649,2026-10-08,Paid Search,google,cpc,vendor-compliance-software-exact,Sales Qualified Lead,Connected,2026-10-08,2026-10-09,2026-10-15,VP Operations,201-500,Food & Beverage,Priya Nair
+10652,2026-10-08,Direct Traffic,,,,Lead,Attempting,,,,Buyer,1-50,Other,
+10654,2026-10-08,Organic Search,,,,Lead,New,,,,COO,501-700,Food & Beverage,
+10656,2026-10-08,Organic Search,,,,Lead,Unqualified,2026-10-09,,,Compliance Coordinator,201-500,Facilities Management,
+10658,2026-10-08,Organic Search,,,,Subscriber,New,,,,Operations Manager,1000+,Other,
+10659,2026-10-09,Referrals,capterra,referral,,Lead,Unqualified,,,,Consultant,51-100,Manufacturing,Daniel Okafor
+10662,2026-10-09,Organic Social,linkedin,social,organic-post,Marketing Qualified Lead,Connected,,2026-10-16,,Office Manager,201-500,Logistics,Maya Chen
+10664,2026-10-09,Direct Traffic,,,,Sales Qualified Lead,Qualified,2026-10-09,2026-10-11,2026-10-19,Director of Procurement,501-700,Manufacturing,Priya Nair
+10668,2026-10-09,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Subscriber,New,,,,COO,1-50,Manufacturing,
+10671,2026-10-09,Direct Traffic,,,,Opportunity,Qualified,2026-10-09,2026-10-11,2026-10-11,Operations Manager,101-200,Construction,Priya Nair
+10675,2026-10-10,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Opportunity,Qualified,2026-10-10,2026-10-10,2026-10-12,Supply Chain Manager,701-1000,Logistics,Priya Nair
+10676,2026-10-10,Paid Search,google,cpc,vendor-compliance-software-exact,Lead,Unqualified,2026-10-12,,,Procurement Manager,701-1000,Logistics,Priya Nair
+10680,2026-10-11,Email Marketing,newsletter,email,newsletter-2026-09-29,Sales Qualified Lead,Connected,2026-10-15,2026-10-18,2026-10-29,Vendor Operations Manager,51-100,Manufacturing,Priya Nair
+10683,2026-10-11,Organic Search,,,,Lead,Nurture,,,,Supply Chain Manager,101-200,Logistics,
+10684,2026-10-12,Organic Search,,,,Marketing Qualified Lead,New,2026-10-13,2026-10-14,,EHS Manager,201-500,Facilities Management,Daniel Okafor
+10688,2026-10-12,Direct Traffic,,,,Lead,Unqualified,2026-10-16,,,Supply Chain Manager,51-100,Healthcare,Daniel Okafor
+10690,2026-10-12,Organic Search,,,,Lead,Unqualified,2026-10-14,,,Operations Manager,101-200,Retail,Maya Chen
+10691,2026-10-12,Paid Social,Linkedin,paid-social,li-vendor-audit-fb,Lead,Unqualified,,,,Operations Manager,701-1000,Software,Maya Chen
+10695,2026-10-12,Direct Traffic,,,,Lead,Unqualified,,,,COO,51-100,Retail,Daniel Okafor
+10698,2026-10-13,Organic Search,,,,Subscriber,Nurture,,,,,,,
+10699,2026-10-13,Organic Search,,,,Subscriber,Nurture,,,,Software Engineer,101-200,Construction,
+10700,2026-10-14,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,New,,,,Supply Chain Manager,101-200,Construction,Maya Chen
+10704,2026-10-14,Organic Search,,,,Subscriber,New,,,,,,,
+10708,2026-10-14,Referrals,g2,referral,,Sales Qualified Lead,Connected,2026-10-14,2026-10-15,2026-10-29,Vendor Operations Manager,201-500,Manufacturing,Priya Nair
+10709,2026-10-15,Organic Search,,,,Subscriber,New,,,,Accounts Payable Lead,51-100,Logistics,
+10712,2026-10-15,Referrals,g2,referral,,Lead,Unqualified,,,,VP Operations,1000+,Software,Priya Nair
+10715,2026-10-15,Paid Search,google,cpc,coi-tracking-manufacturing,Opportunity,Qualified,2026-10-15,2026-10-15,2026-10-17,Procurement Manager,201-500,Manufacturing,Maya Chen
+10716,2026-10-15,Organic Social,linkedin,social,organic-post,Marketing Qualified Lead,New,,2026-10-18,,Buyer,1000+,Construction,Maya Chen
+10718,2026-10-15,Paid Search,google,cpc,vendor-compliance-software-exact,Opportunity,Qualified,2026-10-15,2026-10-15,2026-10-15,Supply Chain Manager,201-500,Logistics,Priya Nair
+10722,2026-10-16,Organic Search,,,,Marketing Qualified Lead,New,2026-10-16,2026-10-17,,Procurement Manager,1000+,Logistics,Maya Chen
+10725,2026-10-16,Email Marketing,newsletter,email,newsletter-2026-10-13,Lead,Unqualified,2026-10-20,,,COO,201-500,Other,Maya Chen
+10726,2026-10-16,Organic Search,,,,Sales Qualified Lead,Qualified,2026-10-16,2026-10-16,2026-10-27,Vendor Operations Manager,101-200,Facilities Management,Maya Chen
+10729,2026-10-16,Organic Search,,,,Marketing Qualified Lead,Connected,2026-10-20,2026-10-20,,Vendor Operations Manager,1000+,Logistics,Daniel Okafor
+10735,2026-10-16,Paid Search,google,cpc,vendor-compliance-software-exact,Marketing Qualified Lead,Connected,2026-10-16,2026-10-16,,Operations Manager,101-200,Construction,Daniel Okafor
+10730,2026-10-17,Organic Search,,,,Subscriber,Nurture,,,,Buyer,101-200,Manufacturing,
+10733,2026-10-18,Organic Search,,,,Lead,Unqualified,2026-10-21,,,Operations Manager,1-50,Food & Beverage,Priya Nair
+10734,2026-10-18,Organic Search,,,,Marketing Qualified Lead,Connected,2026-10-21,2026-10-23,,Procurement Manager,201-500,Manufacturing,Priya Nair
+10737,2026-10-18,Email Marketing,newsletter,email,newsletter-2026-10-13,Lead,Nurture,,,,Procurement Manager,501-700,Food & Beverage,
+10738,2026-10-18,Organic Search,,,,Opportunity,Qualified,2026-10-18,2026-10-18,2026-10-19,Supply Chain Manager,101-200,Facilities Management,Daniel Okafor
+10741,2026-10-19,Paid Search,google,cpc,expired-certificate-tracking,Marketing Qualified Lead,New,2026-10-19,2026-10-25,,Student,1-50,Logistics,Priya Nair
+10744,2026-10-19,Direct Traffic,,,,Sales Qualified Lead,Qualified,2026-10-19,2026-10-19,2026-10-24,COO,201-500,Construction,Maya Chen
+10745,2026-10-19,Direct Traffic,,,,Lead,New,,,,Supply Chain Manager,101-200,Construction,Maya Chen
+10747,2026-10-20,Paid Search,google,CPC,brand-tracedesk,Lead,Nurture,,,,Accounts Payable Lead,201-500,Other,
+10750,2026-10-20,Direct Traffic,,,,Lead,Unqualified,,,,VP Operations,1-50,Logistics,
+10754,2026-10-20,Email Marketing,newsletter,email,newsletter-2026-10-13,Subscriber,New,,,,Software Engineer,51-100,Manufacturing,
+10755,2026-10-20,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Subscriber,Nurture,,,,VP Operations,51-100,Food & Beverage,
+10756,2026-10-20,Paid Search,google,cpc,coi-tracking-manufacturing,Subscriber,New,,,,Operations Manager,701-1000,Manufacturing,
+10757,2026-10-20,Organic Search,,,,Lead,New,,,,COO,201-500,Manufacturing,Maya Chen
+10758,2026-10-20,Organic Search,,,,Subscriber,Nurture,,,,Student,1000+,Food & Beverage,
+10762,2026-10-21,Direct Traffic,,,,Marketing Qualified Lead,Attempting,2026-10-22,2026-10-26,,Supply Chain Manager,201-500,Food & Beverage,Maya Chen
+10763,2026-10-21,Organic Search,,,,Subscriber,New,,,,Supply Chain Manager,701-1000,Manufacturing,
+10764,2026-10-22,Email Marketing,newsletter,email,newsletter-2026-10-13,Lead,New,,,,Software Engineer,201-500,Logistics,
+10765,2026-10-22,Paid Search,google,cpc,vendor-compliance-software-exact,Marketing Qualified Lead,Attempting,2026-10-22,2026-10-22,,Vendor Operations Manager,101-200,Construction,Daniel Okafor
+10766,2026-10-23,Direct Traffic,,,,Lead,Unqualified,,,,Accounts Payable Lead,201-500,Manufacturing,Daniel Okafor
+10770,2026-10-23,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,Unqualified,,,,Student,51-100,Other,
+10773,2026-10-23,Organic Search,,,,Lead,New,,,,Software Engineer,1000+,Construction,
+10775,2026-10-23,Paid Social,linkedin,paid-social,li-procurement-mgr-mfg,Lead,Attempting,2026-10-28,,,Procurement Manager,201-500,Retail,
+10776,2026-10-23,Organic Search,,,,Subscriber,Nurture,,,,Operations Manager,101-200,Logistics,
+10778,2026-10-23,Organic Search,,,,Subscriber,New,,,,COO,101-200,Healthcare,
+10781,2026-10-23,Organic Search,,,,Lead,Unqualified,2026-10-28,,,VP Operations,201-500,Manufacturing,Priya Nair
+10785,2026-10-23,Organic Search,,,,Subscriber,New,,,,Supply Chain Manager,51-100,Logistics,
+10788,2026-10-23,Organic Search,,,,Marketing Qualified Lead,New,2026-10-23,2026-10-25,,Operations Manager,101-200,Other,Maya Chen
+10790,2026-10-23,Email Marketing,newsletter,email,newsletter-2026-10-13,Lead,Unqualified,2026-10-23,,,Operations Manager,1-50,Food & Beverage,
+10789,2026-10-24,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-10-24,2026-10-24,,Compliance Coordinator,201-500,Other,Priya Nair
+10792,2026-10-26,Referrals,capterra,referral,,Lead,Unqualified,2026-10-28,,,Vendor Operations Manager,1-50,Construction,
+10795,2026-10-26,Paid Search,google,cpc,expired-certificate-tracking,Lead,Nurture,,,,Marketing Manager,501-700,Manufacturing,
+10797,2026-10-26,Organic Search,,,,Marketing Qualified Lead,New,2026-10-26,2026-10-27,,Vendor Operations Manager,501-700,Logistics,Daniel Okafor
+10798,2026-10-27,Referrals,ism-org,referral,,Lead,New,,,,Director of Procurement,101-200,Logistics,Priya Nair
+10799,2026-10-27,Paid Search,google,cpc,vendor-compliance-software-exact,Subscriber,Nurture,,,,,,,
+10800,2026-10-27,Organic Search,,,,Lead,Unqualified,2026-10-29,,,Compliance Coordinator,51-100,Manufacturing,
+10801,2026-10-27,Organic Search,,,,Lead,Unqualified,2026-10-27,,,VP Operations,1-50,Construction,
+10802,2026-10-27,Paid Social,linkedin,paid-social,li-customer-stories-retarget,Lead,Unqualified,2026-10-28,,,Vendor Operations Manager,701-1000,Logistics,Maya Chen
+10806,2026-10-27,Referrals,capterra,referral,,Lead,Unqualified,2026-10-27,,,Operations Manager,51-100,Manufacturing,
+10810,2026-10-28,Paid Search,google,cpc,brand-tracedesk,Marketing Qualified Lead,New,2026-10-29,2026-10-29,,Operations Manager,1-50,Construction,Daniel Okafor
+10814,2026-10-28,Direct Traffic,,,,Marketing Qualified Lead,New,2026-10-28,2026-10-28,,Vendor Operations Manager,501-700,Manufacturing,Priya Nair
+10817,2026-10-28,Paid Search,google,cpc,coi-tracking-manufacturing,Lead,Unqualified,2026-10-29,,,Operations Manager,1-50,Food & Beverage,Maya Chen
+10830,2026-10-28,Organic Search,,,,Lead,Attempting,2026-10-28,,,Vendor Operations Manager,1-50,Food & Beverage,
+10818,2026-10-29,Paid Search,google,cpc,vendor-compliance-software-exact,Lead,Unqualified,2026-10-29,,,Accounts Payable Lead,701-1000,Manufacturing,Maya Chen
+10822,2026-10-29,Organic Search,,,,Subscriber,Nurture,,,,Office Manager,501-700,Logistics,
+10824,2026-10-29,Referrals,g2,referral,,Lead,New,,,,Vendor Operations Manager,101-200,Construction,Maya Chen
+10828,2026-10-29,Organic Search,,,,Subscriber,New,,,,Accounts Payable Lead,501-700,Manufacturing,
+10837,2026-10-29,Organic Search,,,,Marketing Qualified Lead,Attempting,2026-10-29,2026-10-29,,VP Operations,201-500,Construction,Priya Nair

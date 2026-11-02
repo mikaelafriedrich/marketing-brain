@@ -1,0 +1,31 @@
+Deal ID,Deal Name,Primary Contact ID,Deal Stage,Deal Amount,Create Date,Close Date,Closed Won/Lost,Lost Reason,Lead Source,Last Activity Date
+30111,Northgate Packaging - Professional,10104,Closed Lost,9588,2026-08-05,2026-09-02,Lost,Already have a process (spreadsheet),Direct Traffic,2026-08-28
+30115,Ironbridge Logistics - Scale,10121,Closed Lost,18228,2026-08-10,2026-09-09,Lost,ERP integration requirement,Organic Search,2026-09-09
+30119,Marlow Components - Professional,10132,Closed Won,9588,2026-08-12,2026-09-04,Won,,Organic Search,2026-09-04
+30124,Brightwater Construction - Essential,10142,Closed Lost,4788,2026-08-17,2026-09-03,Lost,Chose competitor (CertTrackr),Paid Search,2026-09-03
+30129,Sable Creek Dairy - Professional,10152,Closed Won,9588,2026-08-19,2026-09-11,Won,,Referrals,2026-09-11
+30132,Evergreen Cold Storage - Scale,10164,Closed Won,18228,2026-08-24,2026-09-25,Won,,Referrals,2026-09-25
+30134,Cobalt Fabrication - Professional,10177,Closed Lost,9588,2026-08-26,2026-09-30,Lost,Price / budget,Paid Social,2026-09-28
+30136,Harbor & Vine Foods - Professional,10248,Closed Lost,9588,2026-09-01,2026-09-29,Lost,No decision / went dark,Organic Search,2026-09-10
+30138,Keystone Freight Lines - Scale,10270,Closed Won,18228,2026-09-02,2026-10-01,Won,,Paid Social,2026-10-01
+30142,Fairmont Plastics - Scale,10279,Closed Lost,18228,2026-09-03,2026-10-02,Lost,ERP integration requirement (unsupported ERP),Referrals,2026-10-02
+30145,Tallgrass Beverage Co - Essential,10313,Closed Won,4788,2026-09-09,2026-09-18,Won,,Organic Search,2026-09-18
+30147,Pinecrest Facilities Group - Scale,10296,Negotiation,18228,2026-09-12,,Open,,Referrals,2026-10-29
+30151,Copperline Transport - Professional,10299,Closed Lost,9588,2026-09-14,2026-10-08,Lost,Chose competitor (CompliGrid),Paid Search,2026-10-07
+30153,Summit Ridge Builders - Professional,10423,Negotiation,9588,2026-09-16,,Open,,Paid Search,2026-10-28
+30156,Alder Ridge Foods - Professional,10447,Closed Won,11988,2026-09-21,2026-10-26,Won,,Paid Search,2026-10-26
+30158,Granite State Machining - Essential,10446,Closed Lost,4788,2026-09-22,2026-10-13,Lost,Bad timing (project delayed),Organic Social,2026-10-06
+30160,Prairie Gold Foods - Professional,10501,Proposal Sent,9588,2026-09-24,,Open,,Referrals,2026-10-27
+30164,Westbrook Bakery Group - Professional,10398,Closed Lost,9588,2026-09-25,2026-10-21,Lost,Already have a process (spreadsheet),Email Marketing,2026-10-19
+30169,Lakeshore Mechanical - Professional,10549,Proposal Sent,9588,2026-09-28,,Open,,Organic Search,2026-10-21
+30170,Lumen Logistics - Professional,10519,Trial Active,9588,2026-10-01,,Open,,Paid Social,2026-10-12
+30172,Hartwell Facilities Services - Professional,10607,Demo Completed,11988,2026-10-05,,Open,,Organic Search,2026-10-14
+30174,Anvil Metalworks - Professional,10620,Demo Completed,9588,2026-10-08,,Open,,Referrals,2026-10-20
+30177,Kingsley Steel Fabrication - Professional,10622,Trial Active,9588,2026-10-09,,Open,,Direct Traffic,2026-10-24
+30180,Crestview Foods - Professional,10610,Demo Completed,9588,2026-10-12,,Open,,Organic Search,2026-10-26
+30181,Juniper Dairy Co-op - Essential,10545,Trial Active,4788,2026-10-14,,Open,,Organic Search,2026-10-29
+30184,Bluepoint Distribution - Scale,10718,Demo Completed,18228,2026-10-15,,Open,,Paid Search,2026-10-28
+30185,Meridian Packaging - Professional,10715,Appointment Scheduled,9588,2026-10-19,,Open,,Paid Search,2026-10-23
+30186,Oakmont Industrial Services - Professional,10738,Appointment Scheduled,9588,2026-10-22,,Open,,Organic Search,2026-10-27
+30190,Redwood Haulage - Scale,10675,Appointment Scheduled,18228,2026-10-26,,Open,,Paid Social,2026-10-28
+30195,Stonebridge Contractors - Essential,10671,Appointment Scheduled,4788,2026-10-27,,Open,,Direct Traffic,2026-10-27

@@ -1,0 +1,22 @@
+# ----------------------------------------
+# Key events by event name: Session primary channel group (Default Channel Group) x Event name
+# Account: TraceDesk
+# NOTE: SIMULATED DATA - generated for reporting-agent development, not a real export
+# demo_request + trial_start = the Key events column in the matching ga4-<dates>.csv
+# ----------------------------------------
+# Start date: 20261023
+# End date: 20261029
+
+Session primary channel group (Default Channel Group),Event name,Event count,Key events
+Organic Search,demo_request,8,8
+Organic Search,trial_start,6,6
+Direct,demo_request,2,2
+Direct,trial_start,4,4
+Paid Search,demo_request,3,3
+Paid Search,trial_start,2,2
+Referral,demo_request,3,3
+Referral,trial_start,1,1
+Paid Social,demo_request,2,2
+Paid Social,trial_start,1,1
+Email,demo_request,1,1
+Email,trial_start,1,1

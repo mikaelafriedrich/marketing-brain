@@ -1,0 +1,14 @@
+# ----------------------------------------
+# Campaign report: Google Ads (Search)
+# Account: TraceDesk
+# NOTE: SIMULATED DATA - generated for reporting-agent development, not a real export
+# Campaign names match the CRM/GA4 utm_campaign values. Conversions = demo requests + trial starts imported from GA4, NOT demo requests only.
+# ----------------------------------------
+# Start date: 20261016
+# End date: 20261022
+
+Campaign,Campaign status,Impressions,Clicks,CTR,Avg. CPC,Cost,Conversions,Cost / conv.,Currency code
+brand-tracedesk,Enabled,420,61,0.1452,1.05,64.10,1,64.10,USD
+vendor-compliance-software-exact,Enabled,1520,43,0.0283,7.93,341.20,2,170.60,USD
+expired-certificate-tracking,Enabled,1380,37,0.0268,5.62,207.90,1,207.90,USD
+coi-tracking-manufacturing,Enabled,910,30,0.0330,4.86,145.80,1,145.80,USD

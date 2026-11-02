@@ -1,0 +1,13 @@
+# ----------------------------------------
+# Campaign performance: LinkedIn Campaign Manager
+# Account: TraceDesk
+# NOTE: SIMULATED DATA - generated for reporting-agent development, not a real export
+# Campaign names match the CRM/GA4 utm_campaign values. Conversions = website conversions (demo requests + trial starts), NOT demo requests only. Clicks include non-landing-page clicks, so they exceed GA4 sessions.
+# ----------------------------------------
+# Start date: 20261023
+# End date: 20261029
+
+Campaign Name,Campaign ID,Campaign Status,Impressions,Clicks,Click Through Rate,Average CPC,Total Spent,Conversions,Cost Per Conversion,Currency
+li-procurement-mgr-mfg,612304551,Active,11300,72,0.0064,6.07,436.80,2,218.40,USD
+li-customer-stories-retarget,612304562,Active,6900,47,0.0068,4.67,219.50,1,219.50,USD
+li-vendor-audit-fb,612304578,Active,3200,22,0.0069,4.17,91.70,0,,USD
