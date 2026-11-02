@@ -103,5 +103,13 @@ Create reports/YYYY-MM-DD-data-notes.md (same date as the report), in this order
 6. **Not covered**: missing sources and anything you could not calculate.
 7. **Odd values to fix.**
 
-## Step 6: Finish
-Print a short summary in the chat: both file paths, the audience you wrote for, the three biggest changes, and any data problems I need to fix (missing files, odd values, mismatched dates).
+## Step 6: Write the GitHub summary
+Create reports/YYYY-MM-DD-summary.md (same date) so the week can be read on GitHub without downloading the HTML. Use the same numbers, wording and order as the report, in Markdown only:
+1. Title with the date range ("Weekly marketing summary: Oct 23 – 29, 2026"), then one line with the comparison week, prepared date, audience and **Internal**, then links to the HTML report and the data notes.
+2. **This week at a glance**: a table of the weekly stats (this week, last week, change).
+3. **Goals scorecard**: a table (goal, this week, target, status, short note), then one Mermaid `xychart-beta` chart of demo requests per week across all weeks available, with the goal pace as a line. Add other Mermaid charts only if they are bar or line charts GitHub can draw; never inline SVG or HTML, which GitHub strips.
+4. **What changed**, **Needs attention**, **What's working** and **Try this week**: one bold title and one sentence per item.
+Leave out the source sections; they stay in the HTML report.
+
+## Step 7: Finish
+Print a short summary in the chat: all three file paths, the audience you wrote for, the three biggest changes, and any data problems I need to fix (missing files, odd values, mismatched dates).
