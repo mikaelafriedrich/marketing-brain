@@ -6,11 +6,47 @@ For how the whole system works, see [`GUIDE.md`](../GUIDE.md).
 
 ---
 
+## What to give Claude
+
+You don't need to fill in every field yourself. Give Claude the things only you know, and it drafts the rest of the brief from the files in this repo. Your job is then to check the draft.
+
+### You provide
+
+- [ ] **What the campaign is and why.** The situation, and your hypothesis about the problem. For example, "Adoption is low because customers don't know the feature exists."
+- [ ] **The target, in plain words.** For example, "Get SyncBridge adoption among Scale customers to 75%." Claude finds the current number.
+- [ ] **Who it's for.** Which customers, and which roles (buyers, users, IT, finance).
+- [ ] **The assets you want.** For example, "3 emails, 4 LinkedIn posts, a webinar outline and a sign-up page." Say if you want to start with just one or two.
+- [ ] **Dates.** The deadline, and any event date with its time and time zone.
+- [ ] **Anything only the team knows.** Who sends the emails, the links, numbers from the CRM, webinar speakers, things to stay away from.
+
+If you don't know one yet, say so. Claude adds it to the open questions instead of guessing.
+
+### Claude drafts, you check
+
+| Field | Where Claude gets it |
+|---|---|
+| Campaign name | Your description |
+| Baseline | `company-facts.md` and `products.md` |
+| Secondary goals, with reasoning | Your target, plus `proof-points.md` and `company-facts.md` |
+| Measured on | Your dates, leaving time after the last asset |
+| Key message | `positioning.md` and `brand-voice.md` |
+| Proof points and quotes, in full | `proof-points.md` and `testimonials.md` |
+| Schedule, with go-live and "final by" dates | Your deadline and event dates |
+| Anything to avoid | `brand-voice.md`, `proof-points.md` and the plan rules in `products.md` |
+| Open questions | Anything you didn't know, or that conflicts with the facts files |
+
+Claude also checks plan access, splits the audience into tracks if the call to action differs, and flags anything in your description that conflicts with the facts files.
+
+### A sample request
+
+> Let's start a new brief: briefs/syncbridge-adoption.md. SyncBridge launched in May, but adoption among Scale customers is lower than we'd like. We think customers don't know it's there. Goal: get to 75% of Scale customers connected, and book 5 demos with Professional customers. Audience: buyers and the IT leads who'd set it up. Assets: 1 email and 1 LinkedIn post to start; later 3 emails, 4 LinkedIn posts, a webinar outline and a sign-up page. Webinar on November 17 at 1pm Eastern. Deadline November 15. Fill in the rest from the repo and list anything you need from me.
+
+---
+
 ## Before you start
 
 - **Check the facts files first.** Look up anything your campaign depends on in `company-facts.md` and `products.md`: which plan includes the feature, the current price, the current customer numbers. Most brief errors come from an assumption that doesn't match these files.
 - **Know what's internal and what isn't.** The brief is **internal**, team only. Goals, adoption rates, churn and the business reasons behind the campaign belong here. None of it goes into customer-facing assets.
-- **You don't have to fill it in alone.** Describe the campaign to Claude in a few sentences and ask it to fill in the brief. Then read it carefully and correct what's off.
 
 ---
 
@@ -25,6 +61,8 @@ When you fill it in, **delete the prompts in parentheses** (they're there to hel
 ---
 
 ## Field by field
+
+Use these tips to check Claude's draft, or to fill in a field yourself.
 
 ### Campaign name
 
